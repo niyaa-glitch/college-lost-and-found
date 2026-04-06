@@ -7,7 +7,7 @@ import Navbar from "@/components/Navbar";
 import { supabase } from "@/lib/supabase"; 
 
 const steps = [
-  { icon: PlusCircle, title: "Report", description: "Report lost or found items." },
+  { icon: PlusCircle, title: "Backtrack", description: "Register lost or found items." },
   { icon: Eye, title: "Browse", description: "Search through the database." },
   { icon: CheckCircle, title: "Claim", description: "Reunite with your items." },
 ];

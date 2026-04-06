@@ -35,7 +35,7 @@ const Navbar = () => {
               className="gap-2"
             >
               <PlusCircle className="h-4 w-4" />
-              <span className="hidden sm:inline">Reprt Item</span>
+              <span className="hidden sm:inline">Report Item</span>
             </Button>
           </Link>
         </div>
